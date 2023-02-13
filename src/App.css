@@ -1,3 +1,11 @@
+table {
+  margin: auto;
+}
+
+thead {
+  font-weight: bold;
+}
+
 .App {
   text-align: center;
 }
